@@ -1,3 +1,5 @@
+#This is a simple commit to check the build
+
 # simple-java-maven-app
 
 This repository is for the
